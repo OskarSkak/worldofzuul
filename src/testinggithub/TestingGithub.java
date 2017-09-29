@@ -7,7 +7,7 @@ package testinggithub;
 
 /**
  *
- * @author Hansi
+ * @author Hansi / Oskars branch
  */
 public class TestingGithub {
 
